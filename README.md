@@ -6,6 +6,32 @@
 
 ---
 
+## 🎥 Demo Video
+
+> **Watch the complete walkthrough of how to contribute to this repository!**
+
+### Video Tutorial
+
+<!-- Add your demo video embed here -->
+<!-- Example for YouTube: -->
+<!-- [![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
+
+<!-- Example for direct video link: -->
+<!-- <video width="100%" controls>
+  <source src="assets/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> -->
+
+📹 **What's covered in the demo:**
+- How to fork this repository
+- Adding your beginner-friendly repository to the list
+- Creating a pull request step-by-step
+- Best practices for Hacktoberfest contributions
+
+_Demo video coming soon! Stay tuned._ 🎬
+
+---
+
 ## 🚀 Quick Start – How to Contribute
 
 1. _Fork_ this repository
